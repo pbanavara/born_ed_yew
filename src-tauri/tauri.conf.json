@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "boreditedyew",
+  "productName": "born edited",
   "version": "0.1.0",
   "identifier": "bey",
   "build": {
@@ -13,7 +13,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "boreditedyew",
+        "title": "born edited",
         "width": 800,
         "height": 600
       }
